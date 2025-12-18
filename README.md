@@ -115,14 +115,6 @@ This repository highlights my **hands-on experience, skills, and projects** gain
 
 ---
 
-## 🤝 Leadership & Community Involvement
-
-- Design Team Associate – Quizzards REC
-- Design Team Member – Invox (Technical Club)
-- Designer – CodeSapiens (Student Community of Coders)
-
----
-
 ## 🛠️ Tools & Platforms
 
 - Figma
